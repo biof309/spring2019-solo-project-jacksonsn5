@@ -1,5 +1,5 @@
 =========
-cool project name
+Samantha's Project
 =========
 
 
